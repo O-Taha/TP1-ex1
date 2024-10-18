@@ -1,0 +1,8 @@
+1. Le fichier .git a été créé : le dossier est maintenant "surveillé/versionné" par git
+4. git status fait la synthèse de l'état des fichiers du dépot (indexé, modifié, à jour...)
+5. Le fichier est indexé et sera ajouté au prochain commit
+7. à jour !
+8. log -p indique l'ensemble des commits réalisés (avec les différences entre fichiers)
+9. indique le détail des changements aux fichiers
+11. git.txt est bien apparu :)
+Note à soi-même : finir de lire l'énoncé pour ne pas galérer 5 min sur les tokens
